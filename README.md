@@ -1,6 +1,6 @@
 # general-algorithm
 
-Custom code to count Mode value from series of numbers
+[Mode.java] Custom code to count Mode value from series of numbers
 
 Cases example :
 
