@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Collections;
 import java.util.Map;
 
-public class Statistics {
+public class Mode {
   public static Float customMode (List<Float> list) {
     int curr = 0;
     Float currKey =  0f;
